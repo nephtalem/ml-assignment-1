@@ -1,0 +1,9 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# personal study notes (not part of the submission)
+ML_NOTES.md
