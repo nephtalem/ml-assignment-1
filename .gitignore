@@ -7,3 +7,7 @@ __pycache__/
 
 # personal study notes (not part of the submission)
 ML_NOTES.md
+
+# exported report (submitted separately)
+report/*.docx
+report/*.pdf
