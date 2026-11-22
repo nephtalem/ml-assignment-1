@@ -4,6 +4,8 @@ Two supervised learning problems, each taken through the full ML process: proble
 
 **Author:** Nephtalem Woldeyohanes · Machine Learning, AAU
 
+**Live app:** [ml-assignment-1-nephtalem.streamlit.app](https://ml-assignment-1-nephtalem.streamlit.app/) (one tab per model)
+
 | Problem | Dataset | Final model | Test result |
 | --- | --- | --- | --- |
 | Regression: forecast tomorrow's PM2.5 in Addis Ababa | [Air Quality Dataset for Addis Ababa](https://www.kaggle.com/datasets/nitirajkulkarni/addis-ababa-et-344979) (Kaggle) | Ridge regression (α = 30), 13 features | RMSE 3.93 µg/m³ vs 4.19 for the persistence baseline |
